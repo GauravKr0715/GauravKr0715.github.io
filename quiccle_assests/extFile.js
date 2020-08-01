@@ -20,3 +20,5 @@ const getAlertMsg = () => {
 const getBackground = () => {
   return background;
 };
+
+alert("hello...");
