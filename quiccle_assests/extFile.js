@@ -8,9 +8,15 @@
 // };
 
 // old
+// const background = {
+//   color: "#182b3a",
+//   image: "linear-gradient(315deg, #182b3a 0%, #20a4f3 74%)",
+// };
+
+// 3rd one
 const background = {
-  color: "#182b3a",
-  image: "linear-gradient(315deg, #182b3a 0%, #20a4f3 74%)",
+  color: "#ff512f",
+  image: "linear-gradient(to right, #ff512f, #f09819)",
 };
 
 const getAlertMsg = () => {
