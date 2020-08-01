@@ -20,3 +20,5 @@ const getAlertMsg = () => {
 const getBackground = () => {
   return background;
 };
+
+console.log('This is done for checking the pull command');
