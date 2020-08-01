@@ -21,4 +21,4 @@ const getBackground = () => {
   return background;
 };
 
-alert("hello...");
+console.log("This is done for checking the pull command");
