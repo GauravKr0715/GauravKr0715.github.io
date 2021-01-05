@@ -7,17 +7,17 @@
 //   image: "linear-gradient(to right, #4cb8c4, #3cd3ad)",
 // };
 
-// old
-// const background = {
-//   color: "#182b3a",
-//   image: "linear-gradient(315deg, #182b3a 0%, #20a4f3 74%)",
-// };
+old
+const background = {
+  color: "#182b3a",
+  image: "linear-gradient(315deg, #182b3a 0%, #20a4f3 74%)",
+};
 
 // 3rd one
-const background = {
-  color: "#ff512f",
-  image: "linear-gradient(to right, #ff512f, #f09819)",
-};
+// const background = {
+//   color: "#ff512f",
+//   image: "linear-gradient(to right, #ff512f, #f09819)",
+// };
 
 const getAlertMsg = () => {
   alert("Hello from the alert msg");
