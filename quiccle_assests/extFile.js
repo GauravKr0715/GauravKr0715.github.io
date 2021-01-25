@@ -13,7 +13,8 @@ const background = {
   image: "linear-gradient(315deg, #182b3a 0%, #20a4f3 74%)",
 };
 
-const font = "https://fonts.googleapis.com/css?family=Rubik&display=swap";
+// const font = "https://fonts.googleapis.com/css?family=Rubik&display=swap";
+const font = "https://fonts.googleapis.com/css2?family=Potta+One&display=swap";
 
 // 3rd one
 // const background = {
