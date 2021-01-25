@@ -14,7 +14,10 @@ const background = {
 };
 
 // const font = "https://fonts.googleapis.com/css?family=Rubik&display=swap";
-const font = "https://fonts.googleapis.com/css2?family=Potta+One&display=swap";
+const font = {
+  href: "https://fonts.googleapis.com/css2?family=Potta+One&display=swap",
+  fontFamily: "Potta One"
+};
 
 // 3rd one
 // const background = {
