@@ -14,15 +14,16 @@ const background = {
 };
 
 // const font = "https://fonts.googleapis.com/css?family=Rubik&display=swap";
-// const font = {
-//   href: "https://fonts.googleapis.com/css2?family=Potta+One&display=swap",
-//   fontFamily: "Potta One"
-// };
 
 const font = {
-  href: "https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap",
-  fontFamily: "Hachi Maru Pop"
+  href: "https://fonts.googleapis.com/css2?family=Potta+One&display=swap",
+  fontFamily: "Potta One"
 };
+
+// const font = {
+//   href: "https://fonts.googleapis.com/css2?family=Hachi+Maru+Pop&display=swap",
+//   fontFamily: "Hachi Maru Pop"
+// };
 
 // 3rd one
 // const background = {
